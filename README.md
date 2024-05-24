@@ -9,7 +9,7 @@
 
 I'm a passionate developer who loves to code and create innovative solutions. My areas of expertise include:
 
-- 💻 Programming Languages: Python, JavaScript, C++, Java
+- 💻 Programming Languages: Python
 - 🌐 Web Development: HTML, CSS, React, Node.js
 - 📊 Data Science: Pandas, NumPy, Scikit-Learn
 - 🔧 Tools: Git, Docker, Kubernetes
