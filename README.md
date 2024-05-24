@@ -5,15 +5,21 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40)
 
-## 🚀 About Me
+## Hello 🐱‍👤
 
-你说的对 但是我不改(:
-就是一个懒虫 发发有意思的东西
+👋 你好，我是 ZiChuanShanFeng！我是一名热爱编程的开发者，致力于创造创新的解决方案。通过编写高效的代码来让世界变得更美好。
 
-- 💻 Programming Languages: Python
-- 🌐 Web Development: HTML, CSS, React, Node.js
-- 📊 Data Science: Pandas, NumPy, Scikit-Learn
-- 🔧 Tools: Git, Docker, Kubernetes
+## ✨ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 
 ## 🛠️ My Project
 
@@ -21,7 +27,7 @@
 
 ![Project](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Telegram-Keyword-Monitoring-Bot&theme=radical)
 
-This project is a Telegram bot that monitors keywords and sends notifications when they are detected in a chat. It is highly customizable and easy to set up.
+这个项目是一个 Telegram 机器人，当在聊天中检测到关键字时会发送通知。它高度可定制且易于设置。
 
 ## 📊 GitHub Stats
 
@@ -40,7 +46,7 @@ This project is a Telegram bot that monitors keywords and sends notifications wh
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZiChuanShanFeng&theme=onedark)
 
-## 💬 Connect with Me
+## 📫 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=blue)](https://t.me/Zichuanlan_bot)
 
