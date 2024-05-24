@@ -9,9 +9,10 @@
 
 ## Hello 🐱‍👤
 
-欢迎来到我的 GitHub 主页！我是一个充满激情的开发者，热爱编码和创造创新解决方案。
+欢迎来到我的 GitHub 主页！
+懒癌晚期 对但不改
 
-### 📚 My Skills
+### 📚 My Skills（Maybe）
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -27,7 +28,7 @@
 #### [Telegram Keyword Monitoring Bot](https://github.com/ZiChuanShanFeng/Telegram-Keyword-Monitoring-Bot)
 ![Project](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Telegram-Keyword-Monitoring-Bot&theme=radical)
 
-这个项目是一个 Telegram 机器人，用于监控关键字，并在聊天中检测到它们时发送通知。它高度可定制且易于设置。
+这个项目是一个 Telegram 机器人，可以实时监测目标群组中的关键词，然后转发到指定群组。
 
 ### ⚡ GitHub Stats
 
@@ -50,7 +51,6 @@
 
 - 🌟 完成更多开源项目
 - 📚 学习新技术和工具
-- 👯 与更多开发者合作
 
 ### 💬 Connect with Me
 
