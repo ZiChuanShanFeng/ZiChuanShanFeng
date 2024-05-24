@@ -5,48 +5,54 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40)
 
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
 ## Hello 🐱‍👤
 
-👋 你好，我是 ZiChuanShanFeng！我是一名热爱编程的开发者，致力于创造创新的解决方案。通过编写高效的代码来让世界变得更美好。
+欢迎来到我的 GitHub 主页！我是一个充满激情的开发者，热爱编码和创造创新解决方案。
 
-## ✨ Technologies & Tools
+### 📚 My Skills
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## 🛠️ My Project
+### 🛠️ My Project
 
-### [Telegram Keyword Monitoring Bot](https://github.com/ZiChuanShanFeng/Telegram-Keyword-Monitoring-Bot)
-
+#### [Telegram Keyword Monitoring Bot](https://github.com/ZiChuanShanFeng/Telegram-Keyword-Monitoring-Bot)
 ![Project](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Telegram-Keyword-Monitoring-Bot&theme=radical)
 
-这个项目是一个 Telegram 机器人，当在聊天中检测到关键字时会发送通知。它高度可定制且易于设置。
+这个项目是一个 Telegram 机器人，用于监控关键字，并在聊天中检测到它们时发送通知。它高度可定制且易于设置。
 
-## 📊 GitHub Stats
+### ⚡ GitHub Stats
 
 ![ZiChuanShanFeng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiChuanShanFeng&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiChuanShanFeng&layout=compact&theme=tokyonight)
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiChuanShanFeng&theme=highcontrast)
 
-## 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ZiChuanShanFeng&theme=dracula)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZiChuanShanFeng&theme=onedark)
 
-## 📫 Connect with Me
+### 🎯 Goals for 2024
+
+- 🌟 完成更多开源项目
+- 📚 学习新技术和工具
+- 👯 与更多开发者合作
+
+### 💬 Connect with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&labelColor=blue)](https://t.me/Zichuanlan_bot)
 
