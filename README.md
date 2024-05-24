@@ -7,7 +7,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to code and create innovative solutions. My areas of expertise include:
+你说的对 但是我不改(:
+就是一个懒虫 发发有意思的东西
 
 - 💻 Programming Languages: Python
 - 🌐 Web Development: HTML, CSS, React, Node.js
