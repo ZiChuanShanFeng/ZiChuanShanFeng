@@ -14,18 +14,13 @@ I'm a passionate developer who loves to code and create innovative solutions. My
 - 📊 Data Science: Pandas, NumPy, Scikit-Learn
 - 🔧 Tools: Git, Docker, Kubernetes
 
-## 🛠️ My Projects
+## 🛠️ My Project
 
-Here are some of the projects I've been working on:
+### [Telegram Keyword Monitoring Bot](https://github.com/ZiChuanShanFeng/Telegram-Keyword-Monitoring-Bot)
 
-### [Project 1](https://github.com/ZiChuanShanFeng/Project1)
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Project1&theme=radical)
+![Project](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Telegram-Keyword-Monitoring-Bot&theme=radical)
 
-### [Project 2](https://github.com/ZiChuanShanFeng/Project2)
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Project2&theme=merko)
-
-### [Project 3](https://github.com/ZiChuanShanFeng/Project3)
-![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Project3&theme=gruvbox)
+This project is a Telegram bot that monitors keywords and sends notifications when they are detected in a chat. It is highly customizable and easy to set up.
 
 ## 📊 GitHub Stats
 
