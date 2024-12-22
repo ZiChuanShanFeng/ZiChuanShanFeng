@@ -5,7 +5,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=50&fontAlignY=40)
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
 ## Hello 🐱‍👤
 
