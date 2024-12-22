@@ -23,12 +23,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 🛠️ My Project
-
-#### [Telegram Keyword Monitoring Bot](https://github.com/ZiChuanShanFeng/Telegram-Keyword-Monitoring-Bot)
-![Project](https://github-readme-stats.vercel.app/api/pin/?username=ZiChuanShanFeng&repo=Telegram-Keyword-Monitoring-Bot&theme=radical)
-
-这个项目是一个 Telegram 机器人，可以实时监测目标群组中的关键词，然后转发到指定群组。
 
 ### ⚡ GitHub Stats
 
