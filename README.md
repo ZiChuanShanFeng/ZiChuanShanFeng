@@ -6,18 +6,9 @@
   <a href="https://github.com/ZiChuanShanFeng">
     <img src="https://komarev.com/ghpvc/?username=ZiChuanShanFeng&style=flat-square&color=blueviolet" alt="Visitors"/>
   </a>
-  <a href="https://github.com/ZiChuanShanFeng?tab=followers">
-    <img src="https://img.shields.io/github/followers/ZiChuanShanFeng?style=flat-square&logo=github" alt="Followers"/>
-  </a>
 </p>  
 
 ---
-
-## 🚀 About Me  
-
-💻 Full-stack explorer · 🐳 DevOps learner · ☁️ Cloud curious  
-⚡ 兴趣：自动化、可视化、现代化工具  
-😎 信条：**Keep it simple, keep it fun**  
 
 ---
 
