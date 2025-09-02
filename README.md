@@ -1,80 +1,69 @@
-# 🌌 Hi there, I'm ZiChuanShanFeng 👋  
+# 👋 Hi, I'm ZiChuanShanFeng  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=45&fontAlignY=35&animation=twinkling)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=ZiChuanShanFeng&fontSize=45&fontAlignY=35&fontColor=fff&animation=twinkling)  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZiChuanShanFeng&color=blueviolet" alt="Visitor Count"/>
   <a href="https://github.com/ZiChuanShanFeng">
-    <img src="https://img.shields.io/github/followers/ZiChuanShanFeng?label=Follow&style=social" alt="GitHub followers"/>
+    <img src="https://komarev.com/ghpvc/?username=ZiChuanShanFeng&style=flat-square&color=blueviolet" alt="Visitors"/>
+  </a>
+  <a href="https://github.com/ZiChuanShanFeng?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZiChuanShanFeng?style=flat-square&logo=github" alt="Followers"/>
   </a>
 </p>  
 
 ---
 
-## 🐱‍👤 Hello  
+## 🚀 About Me  
 
-欢迎来到我的 GitHub 主页！  
-懒癌晚期但不改 🤣  
+💻 Full-stack explorer · 🐳 DevOps learner · ☁️ Cloud curious  
+⚡ 兴趣：自动化、可视化、现代化工具  
+😎 信条：**Keep it simple, keep it fun**  
 
 ---
 
-## 📚 Skills (Maybe)  
+## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,react,docker,kubernetes,linux,git&theme=light" />
 </p>  
 
 ---
 
-## ⚡ GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiChuanShanFeng&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiChuanShanFeng&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiChuanShanFeng&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiChuanShanFeng&layout=donut&theme=transparent&hide_border=true" height="165"/>
 </p>  
 
 ---
 
-## 🔥 Streak & Activity  
+## 🔥 Streak & Contribution  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiChuanShanFeng&theme=highcontrast"/>
+  <img src="https://streak-stats.demolab.com?user=ZiChuanShanFeng&theme=modern-lilac&hide_border=true" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiChuanShanFeng&theme=dracula"/>
-</p>  
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZiChuanShanFeng&theme=onedark&no-frame=true&no-bg=true&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiChuanShanFeng&theme=github-compact&hide_border=true&area=true" />
 </p>  
 
 ---
 
-## 🎯 Goals for 2024  
+## 🏆 Highlights  
 
-- 🌟 完成更多开源项目  
-- 📚 学习新技术和工具  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZiChuanShanFeng&theme=matrix&no-frame=true&row=1&column=6" />
+</p>  
 
 ---
 
-## 💬 Connect with Me  
+## 📬 Connect  
 
 <p align="center">
   <a href="https://t.me/Zichuanlan_bot">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer)  
